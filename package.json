@@ -1,0 +1,31 @@
+{
+  "name": "practicaintrojs",
+  "version": "1.0.0",
+  "description": "Practica del modulo Introduccion a JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andiarist/PracticaIntroJS.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Andrea G. Aristegui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andiarist/PracticaIntroJS/issues"
+  },
+  "homepage": "https://github.com/andiarist/PracticaIntroJS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
