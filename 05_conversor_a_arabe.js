@@ -42,6 +42,4 @@ const deRomanoADecimal = function (n){
     }
     return numero
 }
-module.exports = {
-    'deRomanoADecimal': deRomanoADecimal
-}
+module.exports = { deRomanoADecimal }

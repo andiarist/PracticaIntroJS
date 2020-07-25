@@ -100,7 +100,4 @@ const esRomano = function (romanos) { // le paso el array de supuestos numeros r
     return flag
 }
 
-module.exports = {
-    "esRomano": esRomano
-}
-
+module.exports = { esRomano }

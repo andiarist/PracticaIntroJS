@@ -33,6 +33,4 @@ const deDecimalARomano = function (n){
     return resultado.join('')
 }
 
-module.exports = {
-    'deDecimalARomano': deDecimalARomano
-}
+module.exports = { deDecimalARomano }

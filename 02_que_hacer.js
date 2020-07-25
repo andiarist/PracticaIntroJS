@@ -21,6 +21,4 @@ const decidir = function(numero){
         return 0
     }
 }
-module.exports = {
-    "decidir": decidir
-}
+module.exports = { decidir }

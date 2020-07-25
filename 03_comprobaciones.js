@@ -61,8 +61,4 @@ const comprobarTipo = function (x){
        return 0
     }
 }
-module.exports = {
-    "comprobarTipo": comprobarTipo
-}
-
-
+module.exports = { comprobarTipo }
